@@ -33,7 +33,7 @@ Monday 11.00-11.45 Y11-J-05
 | 21.11.2016  | Mark  | edgeR+friends 2  | x | x |
 | 28.11.2016  | Hubert  | classification  | x | x |
 | 5.12.2016  | Mark  | epigenomics, DNA methylation  | x | x |
-| 12.12.2016  | Mark  | gene set analysis  | x | x |
+| 12.12.2016  | Mark  | gene set analysis  | Data-driven hypothesis weighting increases detection power in genome-scale multiple testing (http://www.nature.com/nmeth/journal/v13/n7/full/nmeth.3885.html) (Sayed-Rzgar Hosseini,  Noh Heeju, and Laura Pineiro Fernandez) | x |
 | 19.12.2016  | Mark  | single-cell  | x | x |
 
 
